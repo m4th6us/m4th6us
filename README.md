@@ -1,61 +1,203 @@
-# Hi, I'm Matheus Henrique 👋
+<div align="center">
 
-### Backend & Full Stack Developer
+# 👋 Hi, I'm Matheus Henrique
 
-I'm a Software Developer focused on building scalable backend systems, APIs, integrations, automation solutions and modern web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;TypeScript+%7C+Node.js+%7C+NestJS;Python+%7C+Go+%7C+Docker;Building+APIs+and+Scalable+Systems;Turning+ideas+into+software+%F0%9F%9A%80" alt="Typing SVG" />
 
-I enjoy solving real-world problems through clean architecture, efficient code and well-designed systems.
+<br/>
 
-## 🚀 About Me
+**Backend-focused Software Developer building APIs, integrations, automations and scalable applications.**
 
-- 💻 Backend-focused Software Developer
-- 🧠 Interested in Software Architecture and scalable systems
-- 🔗 Experience building REST APIs and third-party integrations
-- ⚙️ Experience with automation and data processing
-- 🐳 Working with containerized applications using Docker
-- 📚 Computer Science student
-- 🌎 Based in Brazil
+<br/>
 
-## 🛠️ Technologies
+<a href="https://github.com/m4th6us">
+  <img src="https://komarev.com/ghpvc/?username=m4th6us&style=for-the-badge" alt="Profile views"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const matheus = {
+    username: "m4th6us",
+
+    role: "Backend & Full Stack Developer",
+
+    languages: [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "SQL"
+    ],
+
+    backend: [
+        "Node.js",
+        "NestJS",
+        "REST APIs"
+    ],
+
+    frontend: [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis"
+    ],
+
+    tools: [
+        "Docker",
+        "Git",
+        "Prisma",
+        "Airflow"
+    ],
+
+    interests: [
+        "Backend Architecture",
+        "Distributed Systems",
+        "APIs",
+        "Automation",
+        "Performance",
+        "Data Engineering"
+    ],
+
+    currentGoal: "Build scalable systems and become a better software engineer 🚀"
+};
+```
+
+I am a **Software Developer focused on Backend Engineering**, with experience building real-world applications, REST APIs, integrations, automation workflows and data-driven systems.
+
+I enjoy understanding how systems work behind the scenes and transforming complex business problems into **clean, maintainable and scalable software**.
+
+My background also includes **data engineering and automation**, which gives me a strong foundation for working with databases, data processing and backend architecture.
+
+---
+
+## 🚀 What I Like Building
+
+* ⚙️ Backend systems and APIs
+* 🔗 Third-party API integrations
+* 🤖 Automation workflows
+* 🧠 Business logic and software architecture
+* 📊 Data processing pipelines
+* ⚡ High-performance applications
+* 🐳 Containerized environments
+* 🌐 Full Stack applications
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go" />
 
 ### Backend
-- TypeScript
-- Node.js
-- NestJS
-- Python
-- Go
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
 
 ### Frontend
-- Next.js
-- React
-- Tailwind CSS
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 
 ### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
 
-### Tools & Infrastructure
-- Docker
-- Git
-- REST APIs
-- Prisma ORM
-- Airflow
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
-## 💡 What I Work With
+### DevOps & Tools
 
-I enjoy working on:
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 
-- Backend architecture
-- REST API development
-- API integrations
-- Automation
-- Data processing
-- Performance optimization
-- Full Stack applications
-- Refactoring and improving existing systems
+</div>
 
-## 📫 Let's Connect
+---
 
-I'm open to discussing software development, backend engineering, automation and new projects.
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4th6us&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4th6us&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=m4th6us&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=m4th6us&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/m4th6us/m4th6us/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 💡 Currently Exploring
+
+```text
+🏗️ Software Architecture
+⚡ Backend Performance
+🔄 Distributed Systems
+🐹 Go
+🤖 Automation
+🧠 Artificial Intelligence
+☁️ Cloud Infrastructure
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing **software development, backend engineering, APIs, automation and interesting technology projects.**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 Code. Build. Learn. Repeat.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Always+learning...;Always+building...;Always+improving..." />
+
+</div>
