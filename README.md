@@ -122,46 +122,6 @@ My background also includes **data engineering and automation**, which gives me 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4th6us&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4th6us&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=m4th6us&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=m4th6us&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/m4th6us/m4th6us/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 💡 Currently Exploring
 
 ```text
