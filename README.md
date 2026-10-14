@@ -142,11 +142,11 @@ I'm always interested in discussing **software development, backend engineering,
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="www.linkedin.com/in/matheus-henrique-dos-santos-625945223">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:m4th6ussantos@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
